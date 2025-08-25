@@ -1,16 +1,4 @@
 ## Hi there 👋
 
-<!--
-**ferchovdelc/ferchovdelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on as Professor of International Relations at Universidade Positivo (Curitiba-Brazil)
-- 🌱 I’m currently learning Computer Sciencie at Universidade Positivo. I'm very curious about the development code and operating systems (Linux and Android). Furthermore, I would like to expand my knowledge in these areas of study. Furthermore, I would like as much of my work as possible to be open source.
-- 👯 I’m looking to collaborate
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on as Professor of International Relations at Universidade Positivo (Curitiba-Brazil)
+I’m currently learning Computer Sciencie at Universidade Positivo. I'm very curious about the development code and operating systems (Linux and Android). Furthermore, I would like to expand my knowledge in these areas of study. Furthermore, I would like as much of my work as possible to be open source.
